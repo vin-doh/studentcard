@@ -1,0 +1,90 @@
+.student-card {
+  position: relative;
+  width: 295.75px;
+  height: 169px;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.background-image {
+  width: 100%;
+  height: 100%;
+}
+
+.element {
+  position: absolute;
+}
+
+.stid {
+  top: 53.693px;
+  left: 190.758px;
+  width: 71.4012px;
+  height: 79.0679px;
+}
+
+.stid-image {
+  width: 100%;
+  height: 100%;
+}
+
+.scan {
+  top: 113.085px;
+  left: 245px;
+  width: 38.7332px;
+  height: 38.7332px;
+}
+
+.scan-image {
+  width: 100%;
+  height: 100%;
+}
+
+.text {
+  position: absolute;
+  font-family: 'YAFdJjTk5UU 0', _fb_, auto;
+  font-size: 10.56px;
+  color: rgb(0, 0, 0);
+  line-height: 41px;
+  letter-spacing: 0em;
+  --paraSpacing: 0;
+  text-transform: none;
+  --headIndent: 0;
+  --numericListMarker: none;
+  list-style-type: none;
+}
+
+.student-name {
+  top: 56px;
+  left: 25px;
+}
+
+.department {
+  top: 77px;
+  left: 25px;
+}
+
+.id-number {
+  top: 100px;
+  left: 25px;
+}
+
+.index-number {
+  top: 122px;
+  left: 25px;
+}
+
+.nationality {
+  top: 100px;
+  left: 105px;
+}
+
+.expiry-date {
+  top: 122px;
+  left: 105px;
+}
